@@ -1,0 +1,29 @@
+.map{
+
+    height: 500px;;
+    width:500px ;
+    padding: 1px;
+    border-radius: 50%;
+ }
+table,th,td{
+    border-collapse:collapse;
+   }
+   th{
+    background-color: rgb(243, 231, 233);
+   }
+   td{
+    padding-left:160px ;
+   }
+   .tr1{
+    background-color:rgb(224, 219, 219) ;
+   }
+   .tr2{
+    background-color: rgb(243, 231, 233);
+   }
+   .tr3{
+    background-color:rgb(224, 219, 219) ;
+   }
+   .tr4{
+    background-color: rgb(243, 231, 233);
+   }
+
